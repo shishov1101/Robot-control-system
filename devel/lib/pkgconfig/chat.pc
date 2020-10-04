@@ -1,0 +1,8 @@
+prefix=/home/sergey/ros_ws/devel
+
+Name: chat
+Description: Description of chat
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

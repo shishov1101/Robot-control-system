@@ -1,0 +1,8 @@
+prefix=/home/sergey/ros_ws/devel
+
+Name: control_selector
+Description: Description of control_selector
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: nav_msgs roscpp std_msgs

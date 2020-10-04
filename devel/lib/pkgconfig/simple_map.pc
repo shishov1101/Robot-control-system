@@ -1,0 +1,8 @@
+prefix=/home/sergey/ros_ws/devel
+
+Name: simple_map
+Description: Description of simple_map
+Version: 0.0.0
+Cflags: -I/home/sergey/ros_ws/src/simple_map/include
+Libs: -L${prefix}/lib -lsimple_map_lib
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/sergey/ros_ws/devel
+
+Name: stage_launch
+Description: Description of stage_launch
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

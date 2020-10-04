@@ -1,0 +1,2 @@
+chat:control_selector:lane_detector:line_control:navigation:robot_control:simple_map
+-DCATKIN_DEVEL_PREFIX=/home/sergey/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sergey/ros_ws/install -G Unix Makefiles

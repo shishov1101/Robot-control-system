@@ -1,0 +1,8 @@
+prefix=/home/sergey/ros_ws/install
+
+Name: line_control
+Description: Description of line_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: nav_msgs roscpp
